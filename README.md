@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohammed Abu Kwaik</h1>
 <h3 align="center">A passionate full stack Web and Mobile developer from Jordan</h3>
-<img align="right" alt="coding" width="350" src="https://tenor.com/en-GB/view/developer-gif-23414225">
+<img align="right" alt="coding" width="350" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">
 
 - 🌱 I’m currently learning **MERN Stack, React Native**
 
