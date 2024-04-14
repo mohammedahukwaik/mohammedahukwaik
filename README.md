@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
-- 📝 I regularly write articles on <a href="https://www.linkedin.com/in/mohammedkwaik1999/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" height="25"/> </a> [https://www.linkedin.com/in/mohammedkwaik1999/](https://www.linkedin.com/in/mohammedkwaik1999/) 
+- 📝 I regularly write articles on <a href="https://www.linkedin.com/in/mohammed-abu-kwaik/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" height="25"/> </a> [https://www.linkedin.com/in/mohammed-abu-kwaik/](https://www.linkedin.com/in/mohammed-abu-kwaik/) 
 
 - 📫 How to reach me **mohammedahukwaik@gmail.com**
 
