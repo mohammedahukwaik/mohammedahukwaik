@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" height="25"/> [https://www.linkedin.com/in/mohammedkwaik1999/](https://www.linkedin.com/in/mohammedkwaik1999/) 
 
-- 📫 How to reach me <img src="https://icons8.com/icon/tnnUFgHrPmR0/gmail-logo" alt="gmail" width="20" height="25"/> **mohammedahukwaik@gmail.com**
+- 📫 How to reach me <img src="https://iconscout.com/icons/gmail" alt="gmail" width="20" height="25"/> **mohammedahukwaik@gmail.com**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1c4AHIBpWvVLWhsclWTDB0adEa9_wib7_/view?usp=sharing
 
