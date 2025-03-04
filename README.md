@@ -3,7 +3,10 @@
 <h3 align="center">A Passionate Full-Stack .Net Developer From Jordan</h3>
 <img align="right" alt="coding" width="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-<p align="center"> <!-- Google Me -->
+
+
+- 📝 I regularly write articles on <p align="center"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" height="25"/>
     <a href="https://www.linkedin.com/in/mohammed-abu-kwaik/">
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;&font=Bold%20Code&center=true&color=3043d0&pause=1750&size=20">
     </a>
