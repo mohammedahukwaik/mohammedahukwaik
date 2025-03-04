@@ -8,7 +8,7 @@
 - 📝 I regularly write articles on 
     
     <a href="https://www.linkedin.com/in/mohammed-abu-kwaik/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" height="25"/>
+        
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;&font=Bold%20Code&center=true&color=3043d0&pause=1750&size=20">
     </a>
 
