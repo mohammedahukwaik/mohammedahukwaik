@@ -5,14 +5,6 @@
 
 
 
-
-    
-    <a href="https://www.linkedin.com/in/mohammed-abu-kwaik/">
-    - 📝 I regularly write articles on 
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;&font=Bold%20Code&center=true&color=3043d0&pause=1700&size=15" />
-    </a>
-
-
 - 📝 I regularly write articles on <a href="https://www.linkedin.com/in/mohammed-abu-kwaik/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" height="25"/> </a> [https://www.linkedin.com/in/mohammed-abu-kwaik/](https://www.linkedin.com/in/mohammed-abu-kwaik/) 
 
 
