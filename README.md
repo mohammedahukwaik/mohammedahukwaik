@@ -3,6 +3,12 @@
 <h3 align="center">A Passionate Full-Stack .Net Developer From Jordan</h3>
 <img align="right" alt="coding" width="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
+<p align="center"> <!-- Google Me -->
+    <a href="https://www.google.com.eg/search?q=ahmed+hemeda">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;&font=Bold%20Code&center=true&color=30D050&pause=1750&size=20">
+    </a>
+</p>
+
 
 - 📝 I regularly write articles on <a href="https://www.linkedin.com/in/mohammed-abu-kwaik/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" height="25"/> </a> [https://www.linkedin.com/in/mohammed-abu-kwaik/](https://www.linkedin.com/in/mohammed-abu-kwaik/) 
 
