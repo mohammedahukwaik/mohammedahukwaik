@@ -12,6 +12,7 @@
     </a>
 
 
+- 📝 I regularly write articles on <a href="https://www.linkedin.com/in/mohammed-abu-kwaik/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" height="25"/> </a> [https://www.linkedin.com/in/mohammed-abu-kwaik/](https://www.linkedin.com/in/mohammed-abu-kwaik/) 
 
 
 - 📫 How to reach me **mohammedahukwaik@gmail.com**
