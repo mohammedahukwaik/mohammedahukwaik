@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="center"> <!-- Google Me -->
-    <a href="https://www.google.com.eg/search?q=ahmed+hemeda">
+    <a href="https://www.linkedin.com/in/mohammed-abu-kwaik/">
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;&font=Bold%20Code&center=true&color=30D050&pause=1750&size=20">
     </a>
 </p>
